@@ -1,0 +1,18 @@
+current directory: /Users/htis/Desktop/TimerApp/TimerApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/htis/Desktop/TimerApp/TimerApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250203-8660-2pwa9c sitelibdir\=./.gem.20250203-8660-2pwa9c clean
+
+current directory: /Users/htis/Desktop/TimerApp/TimerApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250203-8660-2pwa9c sitelibdir\=./.gem.20250203-8660-2pwa9c
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/htis/Desktop/TimerApp/TimerApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250203-8660-2pwa9c sitelibdir\=./.gem.20250203-8660-2pwa9c install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250203-8660-2pwa9c
+
+current directory: /Users/htis/Desktop/TimerApp/TimerApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250203-8660-2pwa9c sitelibdir\=./.gem.20250203-8660-2pwa9c clean
